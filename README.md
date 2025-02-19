@@ -6,3 +6,7 @@ improvement : - counter add how many times button is clicked
 
 3. --> 
 Toggle a paragraph’s visibility
+
+
+4. --> 
+Increase a Paragraph Size and decrease a paragraph Size
